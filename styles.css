@@ -1,0 +1,42 @@
+nav
+{
+text-align: center;
+font-family: arial;
+background-color: white;
+width: 500px;
+margin-left: auto;
+margin-right: auto;
+}
+section
+{
+text-align: center;
+font-family: arial;
+background-color: white;
+padding; 0px;
+color: white;
+width: 500px;
+margin-left: auto;
+margin-right: auto;
+}
+ul
+{
+list-style-type:none;
+}
+a:link
+{
+text-decoration:none;
+}
+a:hover
+{
+/*changes background-color to yellow when you hover over it*/
+background-color: white;
+}
+a:visited
+{
+/*changes color of visited link to white*/
+color: #900;
+}
+video
+{
+width: 300px;
+}
